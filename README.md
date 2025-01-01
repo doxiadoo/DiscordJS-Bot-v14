@@ -2,7 +2,7 @@
 
 - **Project built on `discord.js` v14.**
 - **Minimum required Node.js version: v21.7.3
-- **Example command setup can be found in [`src/commands/info/ping.js`](https://github.com/memte/ExampleBot/blob/v14/src/commands/info/ping.js).**  
+- **Example command setup can be found in [`commands/info/ping.js`](https://github.com/doxiadoo/Discord-Bot/blob/main/commands/info/ping.js).**  
   For more details, visit the [Discord.js Guide](https://discordjs.guide/slash-commands/advanced-creation.html).
 
 - **Note: Remember to configure your settings in the [`config.js`](https://github.com/memte/ExampleBot/blob/v14/src/Base/config.js) file and Don't forget to prepare a .env file in the same way as in [`example.env`](https://github.com/memte/ExampleBot/blob/v14/example.env)**!
