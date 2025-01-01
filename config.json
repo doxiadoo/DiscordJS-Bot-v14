@@ -1,0 +1,14 @@
+{
+    "prefix" : "m.",
+    "token" : "", // your bot token
+    "webhook_error" : "", // your webhook error
+    "mongoURL1" : "", // your mongo url 1
+    "mongoURL2" : "", // your mongo url 2
+    "mongoURL3" : "",// your mongo url 3
+    "mongodbUri": "", // your mongo uri
+    "owner" : ["id 1", "id 2"], // your owners id
+    "gban_channel_id" : "id", // your gban channel id
+    "support_server_link" : "link", // your link support
+    "guildLogs" : "id" // your guild id logs
+}
+then delete all // including this one
